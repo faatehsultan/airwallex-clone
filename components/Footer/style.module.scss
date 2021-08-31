@@ -1,0 +1,13 @@
+.footer {
+  .logoContainer {
+    max-width: 160px;
+  }
+  .footerLink {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .footerLink:hover {
+    border-bottom: 2px solid gray;
+    width: fit-content;
+  }
+}
