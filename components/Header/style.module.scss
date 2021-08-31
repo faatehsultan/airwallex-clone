@@ -1,0 +1,17 @@
+.header {
+  .logoContainer {
+    max-width: 160px;
+  }
+  .navLink {
+    color: #545b63;
+    font-weight: bold;
+  }
+  .mobileOverlayNav {
+    background-color: #f6f7f8 !important;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100vh;
+  }
+}
