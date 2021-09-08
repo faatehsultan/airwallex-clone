@@ -37,10 +37,13 @@ export default function Home() {
           <br />
           <div style={{ maxWidth: "450px" }}>
             <div className="fs-1 fw-bold text-center text-md-start">
-              A business account, built for the modern business.
+              Offering international payments solutions for businesses of all
+              shapes and sizes.
             </div>
             <br />
-            <p className="text-center text-md-start">Get started with zero monthly account fees.</p>
+            <p className="text-center text-md-start">
+              Get started with zero monthly account fees.
+            </p>
             <br />
             <div className="d-flex justify-content-center justify-content-md-start">
               <div className="px-2">
@@ -126,9 +129,7 @@ export default function Home() {
                 <div className="col-11 d-flex justify-content-start align-items-center">
                   <div className="row">
                     <div className="col-12">
-                      <div className="fw-bold text-danger">
-                        Multi-currency business account
-                      </div>
+                      <div className="fw-bold text-danger">Payment Network</div>
                     </div>
                     <div className="col-12">
                       <div className="">
@@ -149,7 +150,9 @@ export default function Home() {
                 <div className="col-11 d-flex justify-content-start align-items-center">
                   <div className="row">
                     <div className="col-12">
-                      <div className="fw-bold text-danger">Transfers </div>
+                      <div className="fw-bold text-danger">
+                        International Money Transfer
+                      </div>
                     </div>
                     <div className="col-12">
                       <div className="">
@@ -169,9 +172,7 @@ export default function Home() {
                 <div className="col-11 d-flex justify-content-start align-items-center">
                   <div className="row">
                     <div className="col-12">
-                      <div className="fw-bold text-danger">
-                        Virtual debit cards
-                      </div>
+                      <div className="fw-bold text-danger">Fintech</div>
                     </div>
                     <div className="col-12">
                       <div className="">
@@ -192,9 +193,7 @@ export default function Home() {
                 <div className="col-11 d-flex justify-content-start align-items-center">
                   <div className="row">
                     <div className="col-12">
-                      <div className="fw-bold text-danger">
-                        Xero integration (Beta)
-                      </div>
+                      <div className="fw-bold text-danger">Exchange</div>
                     </div>
                     <div className="col-12">
                       <div className="">
@@ -204,6 +203,22 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="py-5 bg-danger text-center px-2 text-light">
+        <div className="container py-5 my-5">
+          <div className="row">
+            <div className="col-12">
+              <div className="fs-3 fw-bold">Potential Office Locations</div>
+            </div>
+            <div className="col-12 py-2">
+              <div className="fs-4">
+                Jakarta, HK, London, Melbourne, Singapore, Shanghai, Shenzhen,
+                Beijing and San Francisco.
               </div>
             </div>
           </div>
@@ -709,8 +724,8 @@ export default function Home() {
                     <div className="col-12">
                       <div className="">
                         Your money is held securely in a ring-fenced account.
-                        You can access your funds whenever you like as they&apos;re
-                        never invested or lent to anyone else.
+                        You can access your funds whenever you like as
+                        they&apos;re never invested or lent to anyone else.
                       </div>
                     </div>
                   </div>

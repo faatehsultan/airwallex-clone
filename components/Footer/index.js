@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import styles from "./style.module.scss";
 import Image from "next/image";
 import Link from "next/link";
-import ImgLogo from "../../public/airwallex_logo.png";
+import ImgLogo from "../../public/kyng_logo.png";
 
 export default function Footer() {
   const [linksList, setLinksList] = useState([
